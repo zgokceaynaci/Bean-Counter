@@ -13,7 +13,7 @@ To install and run the application locally:
 ## 1-Clone the repository:
     ```bash
     git clone https://github.com/zgokceaynaci/Bean-Counter.git
-    cd bean-counter
+    cd Bean-Counter
     
 ## 2-Build the application using Maven:
 mvn clean install
