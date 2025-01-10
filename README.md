@@ -11,10 +11,13 @@ Utilizes Spring Boot's CommandLineRunner to print the bean count at startup.
 ## **Installation:**
 To install and run the application locally:
 ## 1-Clone the repository:
-git clone https://github.com/your-username/bean-counter.git
-cd bean-counter
+    ```bash
+    git clone https://github.com/zgokceaynaci/Bean-Counter.git
+    cd bean-counter
+    
 ## 2-Build the application using Maven:
 mvn clean install
+
 ## 3-Run the application:
 mvn spring-boot:run
 
